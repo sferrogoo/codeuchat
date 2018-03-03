@@ -64,7 +64,7 @@
         This page should also be used to describe the features and improvements
         you've added.
         <br><br>
-        this is a test line change 2
+        this is a test change made in our group meeting!
       </p>
     </div>
   </div>
